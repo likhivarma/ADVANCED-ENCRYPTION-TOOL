@@ -23,6 +23,8 @@ Key Features:
 ->CLI-based User Interaction - Allows encryption and decryption through a menu-driven interface.
 
 OUTPUT:-
+
+
        Options:
        1. Encrypt a file
        2. Decrypt a file
